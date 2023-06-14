@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Example of my project</title>
+
+</head>
+<body>
+<h1>Welcome to my project</h1?
+</body>
+</html>
